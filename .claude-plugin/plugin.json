@@ -1,0 +1,12 @@
+{
+  "name": "meeting-to-jira",
+  "version": "0.1.0",
+  "description": "Turn meeting transcripts into reviewed Jira epics, stories, sub-tasks and bugs, with a linked meeting doc and a project memory that lives in your repo.",
+  "author": {
+    "name": "nomanakram0099",
+    "url": "https://github.com/nomanakram0099"
+  },
+  "repository": "https://github.com/nomanakram0099/meeting-to-jira-skill",
+  "license": "MIT",
+  "keywords": ["jira", "confluence", "meetings", "transcripts", "fathom", "project-management"]
+}

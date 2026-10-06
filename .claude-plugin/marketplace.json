@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "meeting-to-jira",
+  "description": "Meeting transcripts in, Jira backlog out.",
+  "owner": {
+    "name": "nomanakram0099",
+    "url": "https://github.com/nomanakram0099"
+  },
+  "plugins": [
+    {
+      "name": "meeting-to-jira",
+      "description": "Turn meeting transcripts into reviewed Jira epics, stories, sub-tasks and bugs.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
